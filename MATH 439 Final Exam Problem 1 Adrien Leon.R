@@ -1,4 +1,4 @@
-setwd("C:/Users/AdrienL/Desktop/MATH 439")
+#setwd("C:/Users/AdrienL/Desktop/MATH 439")
 
 data = read.csv("antigravity.csv",h=T)
 head(data)
