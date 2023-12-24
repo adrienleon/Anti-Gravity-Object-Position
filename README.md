@@ -1,4 +1,4 @@
-# MATH 439 Final Exam Project - Antigravity Data Analysis
+# Antigravity Data Analysis
 
 ## Overview
 This project includes an R script for analyzing a dataset concerning a concept referred to as "antigravity." The primary goal is to understand the relationship between position (P) and time (t) by using visualization and regression modeling techniques. Here's what the script accomplishes:
